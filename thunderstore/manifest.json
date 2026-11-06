@@ -1,0 +1,9 @@
+{
+  "name": "FlelkPack",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "All of Flelk's R.E.P.O. mods in one install: EnemyHP, MoreUpgrades, LootScanner and RepoCoins.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
