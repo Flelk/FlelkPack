@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.0.0
+- Skinwalker 3.0.0: it's never invisible now, and always looks like a player.
+
 ## 5.0.0
 - Removed personal info from every mod's files. Settings files are now named flelk.*.cfg, so settings go back to their defaults.
 
