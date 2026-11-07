@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.0.0
+- Added Skinwalker 1.0.0.
+
 ## 2.0.0
 - New icon.
 

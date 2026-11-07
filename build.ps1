@@ -14,7 +14,7 @@ $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $root = $PSScriptRoot
-$mods = 'EnemyHP', 'MoreUpgrades', 'LootScanner', 'RepoCoins'
+$mods = 'EnemyHP', 'MoreUpgrades', 'LootScanner', 'RepoCoins', 'Skinwalker'
 $manifest = Get-Content "$root\thunderstore\manifest.json" -Raw | ConvertFrom-Json
 $name = $manifest.name
 $ver  = $manifest.version_number
