@@ -1,5 +1,8 @@
 # Changelog
 
+## 11.0.0
+- Skinwalker 8.0.0: it stands still in a room until someone enters, instead of walking around.
+
 ## 10.0.0
 - Skinwalker 7.0.0: it never grabs the person it's copying.
 
