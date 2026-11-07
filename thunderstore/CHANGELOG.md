@@ -1,5 +1,8 @@
 # Changelog
 
+## 9.0.0
+- Skinwalker 6.0.0: fixed missing body parts and cosmetics on the copied player.
+
 ## 8.0.0
 - Skinwalker 5.0.0: it attacks much less often.
 
