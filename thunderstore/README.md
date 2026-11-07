@@ -11,18 +11,18 @@ All of Flelk's R.E.P.O. mods in one install.
 | **Skinwalker** | A monster that copies your team's voices, lures you around corners, drags you off and can walk back looking like you | Everyone in the lobby |
 
 ## Your voice
-**Skinwalker records voice chat, so make sure everyone in your lobby knows and agrees.** Clips of what you say are sent to the other players in your lobby. They stay in memory and are never saved to disk. To opt out, set `ShareMyVoice` to false in `gabe.skinwalker.cfg`, and your mic isn't captured at all.
+**Skinwalker records voice chat, so make sure everyone in your lobby knows and agrees.** Clips of what you say are sent to the other players in your lobby. They stay in memory and are never saved to disk. To opt out, set `ShareMyVoice` to false in `flelk.skinwalker.cfg`, and your mic isn't captured at all.
 
 ## Install
 In r2modman: Settings → *Import local mod* → choose `FlelkPack-x.y.z.zip`, then *Start modded*.
 
-**Already have any of these mods installed separately? Uninstall them first**, so each mod is only installed once. Your settings carry over.
+**Already have any of these mods installed separately? Uninstall them first**, so each mod is only installed once. Your settings carry over, except that this update resets them once.
 
 ## Settings
 Each mod keeps its own config file, which you can edit in r2modman's Config editor:
-`gabe.enemyhp.cfg`, `gabe.moreupgrades.cfg`, `gabe.lootscanner.cfg`, `gabe.repocoins.cfg`, `gabe.skinwalker.cfg`.
+`flelk.enemyhp.cfg`, `flelk.moreupgrades.cfg`, `flelk.lootscanner.cfg`, `flelk.repocoins.cfg`, `flelk.skinwalker.cfg`.
 
-To turn off the F8/F9 strength keys, set `StrengthHotkeys` to false in `gabe.moreupgrades.cfg`.
+To turn off the F8/F9 strength keys, set `StrengthHotkeys` to false in `flelk.moreupgrades.cfg`.
 
 ## Good to know
 - If the host doesn't have MoreUpgrades, its shop changes don't apply. If you have it and others don't, the host can set `ExtraShelfLevels` to 0 so upgrades don't look like they're floating for them.
