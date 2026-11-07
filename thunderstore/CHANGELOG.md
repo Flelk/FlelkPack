@@ -1,5 +1,8 @@
 # Changelog
 
+## 12.0.0
+- Skinwalker 9.0.0: removed the on-screen voice notice at the start of a level.
+
 ## 11.0.0
 - Skinwalker 8.0.0: it stands still in a room until someone enters, instead of walking around.
 
