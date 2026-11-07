@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.0.0
+- EnemyHP 2.0.0: no more health bars or damage numbers on the Skinwalker.
+
 ## 3.0.0
 - Added Skinwalker 1.0.0.
 
