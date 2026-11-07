@@ -1,5 +1,8 @@
 # Changelog
 
+## 13.0.0
+- MoreUpgrades 3.0.0: the upgrade stand is filled completely and evenly, with 2 extra Health.
+
 ## 12.0.0
 - Skinwalker 9.0.0: removed the on-screen voice notice at the start of a level.
 
