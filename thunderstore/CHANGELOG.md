@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.0.0
+- Skinwalker 5.0.0: it attacks much less often.
+
 ## 7.0.0
 - Skinwalker 4.0.0: it waits until you're alone, its voices are quieter, and you never hear it using your own voice.
 
