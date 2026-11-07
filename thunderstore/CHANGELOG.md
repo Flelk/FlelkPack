@@ -1,5 +1,8 @@
 # Changelog
 
+## 10.0.0
+- Skinwalker 7.0.0: it never grabs the person it's copying.
+
 ## 9.0.0
 - Skinwalker 6.0.0: fixed missing body parts and cosmetics on the copied player.
 
