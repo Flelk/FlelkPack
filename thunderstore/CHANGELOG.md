@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.0.0
+- Skinwalker 4.0.0: it waits until you're alone, its voices are quieter, and you never hear it using your own voice.
+
 ## 6.0.0
 - Skinwalker 3.0.0: it's never invisible now, and always looks like a player.
 
